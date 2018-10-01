@@ -34,3 +34,11 @@ Develop Build
 
 
 
+# Questions
+
+1. A forign key represents a link to another table via that tables primary key
+2. A primary key represents a unique indexed column that represents that row
+3. Depends on the language, if it's javascript you just do: object["thing"][1]["otherthing"][3]
+4. They can both manage and download dependcies and do tasks for testing a building, however npm is much more primitive in the way that it does it. All that NPM does is just call another command to do the test/builds for it, it's main purpose is to manage dependcies
+5. Not a whole lot, they are very similer I personally only really use POST. I'm sure there's some small difference that defined in the http standard but for the most part it doesn't really change too much for day to day stuff.
+6. I'd first do a surface level research into the problem and figure out what's going on. Then I'd break it down into smaller problems and then take on those problems one by one
